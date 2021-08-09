@@ -23,6 +23,9 @@
 | ^ | شروع یک خط یا کل رشته |
 | \< | شروع یک کلمه | 
 | \> | پایان یک کلمه |
+| \w | یک حرف کلمه ای (حرف یا عدد یا آندرلاین) |
+| \W | یک حرف غیر کلمه ای (حرف یا عدد یا آندرلاین) |
+| \b | با بین یک حرف کلمه ای و یک حرف غیر کلمه ای مچ میشود |
 
 # لیست مثال ها
-[زملن](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/time.txt) | [ایمی ل](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/email.md) | [آدرس سایت](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/url.md)
+[زمان](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/time.txt) | [ایمیل](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/email.md) | [آدرس سایت](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/url.md)
