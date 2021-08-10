@@ -31,4 +31,4 @@
 | \b | با بین یک حرف کلمه ای و یک حرف غیر کلمه ای مچ میشود |
 
 # لیست مثال ها
-[زمان](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/time.txt) | [ایمیل](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/email.md) | [آدرس سایت](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/url.md)
+[زمان](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/time.txt) | [ایمیل](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/email.md) | [آدرس سایت](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/url.md) | [تاریخ شمسی](https://github.com/Cozy-Tech/regex_tutorial_and_examples/blob/main/examples/date.md)
