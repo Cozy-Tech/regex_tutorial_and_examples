@@ -1,5 +1,5 @@
 # آموزش ویدیویی در یوتیوب
-https://www.youtube.com/watch?v=MoRnv4qMzhI&t=436s
+https://www.youtube.com/watch?v=MoRnv4qMzhI
 
 # ریجکس چیه
 یه سری کاراکتر پشت سرهم که الگوی یک جستجو در رشته رو میسازن
